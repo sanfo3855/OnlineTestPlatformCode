@@ -1,4 +1,4 @@
-package Wikipedia;
+package TestDocplanner.Wikipedia.Wikipedia;
 
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
