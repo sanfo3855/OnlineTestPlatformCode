@@ -2,9 +2,10 @@ import java.util.HashMap;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println(RomanToInt.romanToInt("III"));
-		System.out.println(RomanToInt.romanToInt("LVIII"));
-		System.out.println(RomanToInt.romanToInt("MCMXCIV"));
+		System.out.println(BitLogic.maxXor(1,2,3) == 3);
+		System.out.println(BitLogic.maxXor(2,4,8) == 7);
+		System.out.println(BitLogic.maxXor(11,61,32) == 32);
+		System.out.println(BitLogic.maxXor(10,80,19) == 19);
 	}
 
 }
