@@ -1,4 +1,4 @@
-package TestDocplanner.Wikipedia.Wikipedia;
+package HackerRank.TestDocplanner.Wikipedia.Wikipedia;
 
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;

@@ -1,4 +1,4 @@
-package TestDocplanner.BitLogic;
+package HackerRank.TestDocplanner.BitLogic;
 
 public class MainBitLogic {
 	public static void main(String[] args) {

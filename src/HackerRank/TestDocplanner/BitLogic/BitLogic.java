@@ -1,4 +1,4 @@
-package TestDocplanner.BitLogic;
+package HackerRank.TestDocplanner.BitLogic;
 
 public class BitLogic {
 	/*
