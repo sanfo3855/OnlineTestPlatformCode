@@ -1,3 +1,5 @@
+package TestDocplanner.BitLogic;
+
 public class BitLogic {
 	/*
 	 * Complete the 'maxXor' function below.

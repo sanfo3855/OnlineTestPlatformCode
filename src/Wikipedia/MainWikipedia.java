@@ -1,14 +1,11 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+package Wikipedia;
+
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.net.URI;
 
-public class Main2 {
+public class MainWikipedia {
 	public static void main(String args[]) throws Exception {
 		/* Enter your code here. Read input from STDIN. Print output to STDOUT */
 		getTopicCount("pizza");
